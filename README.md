@@ -1,6 +1,6 @@
 # Hello everyone 👋
 
-I'm Frederick Wijayadi Susilo, an Informatics student who has an interest in becoming a Backend Engineer
+I'm Frederick Wijayadi Susilo, an Informatics student who has an interest in becoming a Backend Developer
 
 ## My Personal Description
 
