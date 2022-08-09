@@ -21,5 +21,4 @@ I'm Frederick Wijayadi Susilo, an Informatics student who has an interest in bec
 
 <div style:"display: flex">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=WantToBePro31&theme=aura&show_icons=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WantToBePro31&theme=aura&layout=compact" />
 </div>
