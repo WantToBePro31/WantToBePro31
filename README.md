@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://gpvc.arturio.dev/WantToBePro31" style="float: right"/>
+</div>
+
 # Hello everyone 👋
 
 I'm Frederick Wijayadi Susilo, an Informatics student who has an interest in becoming a Backend Developer
