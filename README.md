@@ -8,7 +8,7 @@ I'm Frederick Wijayadi Susilo, an Informatics student who has an interest in bec
 
 ## My Personal Description
 
-- 🌱 I’m currently learning Laravel & Go
+- 🌱 I’m currently learning PHP (Laravel) & Go
 - 📫 Reach me on [frederick.wijayadisusilo@gmail.com](mailto:frederick.wijayadisusilo@gmail.com)
 - ⚡ I love to play games dan watch movies
 
