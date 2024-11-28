@@ -1,6 +1,6 @@
 # Hello everyone 👋
 
-I'm Frederick Wijayadi Susilo, a Software Engineer who have a strong desire to learn new things, especially technology, and oriented towards completing assigned tasks with full dedication and responsibility in every problem encountered. Furthermore, I actively pursue opportunities to improve my soft skills, such as critical and analytical thinking, leadership, time management, team work, and communication skills. Backend, Data, & Infra Enthusiast
+I'm Frederick Wijayadi Susilo, a Software Engineer who have a strong desire to learn new things, especially technology, and oriented towards completing assigned tasks with full dedication and responsibility in every problem encountered. Furthermore, I actively pursue opportunities to improve my soft skills, such as critical and analytical thinking, leadership, time management, team work, and communication skills. Backend, Data, & Infra Enthusiast 🔥
 
 ## My Personal Description
 
